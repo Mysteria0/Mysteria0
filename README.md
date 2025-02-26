@@ -1,5 +1,7 @@
 ## Hello
-test
+If you have found this README i have only one thing to say to you:
+
+I don't know who you are. I don't know what you want. If you are looking for information I can tell you I don't have any for you, but what I do have are a very particular set of skills. Skills I have acquired over a very short career. Skills that make me a nightmare for people like you. If you let my profile alone now that'll be the end of it. I will not look for you, I will not pursue you, but if you don't, I will look for you, I will find you and I will give you a very strongly worded letter.
 
 <!--
 **Mysteria0/Mysteria0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
